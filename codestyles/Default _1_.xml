@@ -1,0 +1,10 @@
+<code_scheme name="Default (1)">
+  <JSCodeStyleSettings>
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+  </JSCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+  </codeStyleSettings>
+</code_scheme>

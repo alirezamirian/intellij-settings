@@ -1,0 +1,186 @@
+<application>
+  <component name="libraryTable">
+    <library name="angular" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_angular_1.3.16_angular.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_angular_1.3.10_angular.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_angular_1.3.16_angular.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_angular_1.3.10_angular.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-animate" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_angular_1.3.16_angular-animate.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_angular_1.3.16_angular-animate.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-resource" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.ubiprocess.com_angular_1.3.16_angular-resource.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.ubiprocess.com_angular_1.3.16_angular-resource.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="formular.bootstrap-adapter" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.ubiprocess.com_formular-bootstrap_formular.bootstrap-adapter.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.ubiprocess.com_formular-bootstrap_formular.bootstrap-adapter.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="formular.client" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_js_formular.client.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_js_formular.client.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="formular.contract" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_js_formular.contract.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_js_formular.contract.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="formular.core" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_js_formular.core.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_js_formular.core.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="formular.registry" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_js_formular.registry.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_js_formular.registry.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="fu-plugin-ui-persian-datepicker" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_plugins_ui-persian-datepicker_fu-plugin-ui-persian-datepicker.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_plugins_ui-persian-datepicker_fu-plugin-ui-persian-datepicker.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_lib_jquery_2.1.4_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_lib_jquery_2.1.4_jquery.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="persian-datepicker-tpls" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_plugins_ui-persian-datepicker_persian-datepicker-tpls.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_plugins_ui-persian-datepicker_persian-datepicker-tpls.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="persianDate" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_plugins_ui-persian-datepicker_persianDate.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_plugins_ui-persian-datepicker_persianDate.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="tools-dropzone" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_lib_hasin_tools_tools-dropzone.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_lib_hasin_tools_tools-dropzone.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="tools-file" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_lib_hasin_tools_tools-file.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_lib_hasin_tools_tools-file.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ui-bootstrap-typeahead-0.14.3" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_lib_ui-bootstrap_ui-bootstrap-typeahead-0.14.3.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_lib_ui-bootstrap_ui-bootstrap-typeahead-0.14.3.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ui.bootstrap.dateparser" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_plugins_ui-persian-datepicker_ui.bootstrap.dateparser.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__static.ubiprocess.com_formular_plugins_ui-persian-datepicker_ui.bootstrap.dateparser.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

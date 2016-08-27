@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="app" />
+    <option name="defaultScopeName" value="app" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="app" />
+    <option name="FILE_MASK" value="*.js, *.html, *.scss, *.css" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>bower.json</mask>
+      <mask>*.scss</mask>
+      <mask>*.js</mask>
+      <mask>*.js, *.html</mask>
+      <mask>*.css, *.scss</mask>
+      <mask>*.html</mask>
+      <mask>*.js, *.html, *.scss</mask>
+      <mask>*.tr.json</mask>
+      <mask>*.js, *.html, *.scss, *.css</mask>
+    </recentFileMasks>
+  </component>
+</application>
