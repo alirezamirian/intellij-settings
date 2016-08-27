@@ -38,6 +38,10 @@
           <option name="url" value="http://gist.github.com" />
           <option name="userName" value="alireza.mirian@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alirezamirian/sass-bidi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\workspace" />
