@@ -3,7 +3,7 @@
     <option name="customScope" value="app" />
     <option name="defaultScopeName" value="app" />
     <option name="SEARCH_SCOPE" value="app" />
-    <option name="FILE_MASK" value="*.js, *.html, *.scss, *.css" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -19,8 +19,8 @@
       <mask>*.js, *.html, *.scss</mask>
       <mask>bower.json</mask>
       <mask>*.tr.json</mask>
-      <mask>*.html</mask>
       <mask>*.js, *.html, *.scss, *.css</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
