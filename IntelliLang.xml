@@ -13,6 +13,10 @@
       <display-name>md-icon/@md-svg-icon</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("md-svg-icon")).withParent(xmlTag().withLocalName(string().equalTo("md-icon")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="file-reference" injector-id="xml">
+      <display-name>md-icon/@md-svg-src</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("md-svg-src")).withParent(xmlTag().withLocalName(string().equalTo("md-icon")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>slick/@settings</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("settings")).withParent(xmlTag().withLocalName(string().equalTo("slick")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
