@@ -50,7 +50,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="@component iife" value="(function(angular){&#10;    &quot;use strict&quot;;&#10;    angular.module('$moduleName$')&#10;        .component('$componentName$', {&#10;            &quot;$templateKey$&quot;: &quot;$templateValue$&quot;,&#10;            &quot;controller&quot;: $componentNameCapitilized$Controller&#10;        });&#10;        &#10;    function $componentNameCapitilized$Controller(){&#10;        var $this$ = this;&#10;        $END$&#10;    }&#10;})(angular);" description="Add a component to a module wrapped in an IIFE" toReformat="false" toShortenFQNames="true">
+  <template name="@component iife" value="(function(angular){&#10;    &quot;use strict&quot;;&#10;    angular.module('$moduleName$')&#10;        .component('$componentName$', {&#10;            $templateKey$: &quot;$templateValue$&quot;,&#10;            controller: $componentNameCapitilized$Controller&#10;        });&#10;        &#10;    function $componentNameCapitilized$Controller(){&#10;        var $this$ = this;&#10;        $END$&#10;    }&#10;})(angular);" description="Add a component to a module wrapped in an IIFE" toReformat="false" toShortenFQNames="true">
     <variable name="moduleName" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="componentName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="templateKey" expression="enum(&quot;templateUrl&quot;, &quot;template&quot;)" defaultValue="" alwaysStopAt="true" />
