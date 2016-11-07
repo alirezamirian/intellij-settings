@@ -4,5 +4,6 @@
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
     <option name="MAX_CLIPBOARD_CONTENTS" value="50" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
   </component>
 </application>
