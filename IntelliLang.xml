@@ -25,6 +25,10 @@
       <display-name>slick/@settings</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("settings")).withParent(xmlTag().withLocalName(string().equalTo("slick")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="file-reference" injector-id="xml">
+      <display-name>splash/@src</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("src")).withParent(xmlTag().withLocalName(string().equalTo("splash")).withNamespace(string().equalTo("http://www.w3.org/ns/widgets")))]]></place>
+    </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>th/@permission-only</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("permission-only")).withParent(xmlTag().withLocalName(string().equalTo("th")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
