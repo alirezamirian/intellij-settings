@@ -5,6 +5,10 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="file-reference" injector-id="xml">
+      <display-name>icon/@src</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("src")).withParent(xmlTag().withLocalName(string().equalTo("icon")).withNamespace(string().equalTo("http://www.w3.org/ns/widgets")))]]></place>
+    </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>li/@permission-only</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("permission-only")).withParent(xmlTag().withLocalName(string().equalTo("li")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
