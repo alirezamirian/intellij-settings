@@ -46,8 +46,12 @@
           <option name="url" value="http://git.hasintech.com/UbiProcess/ubiprocess-gateway-openapi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alirezamirian/angular-material-swipe-to-refresh.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\workspace" />
+    <option name="cloneParentDir" value="F:\workspace\angular-material-extensions" />
   </component>
 </application>
