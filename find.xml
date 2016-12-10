@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[ubiprocess-gateways-common] - ...\src\other-modules\ht-stick-in-view\ht-stick-in-view.directive.js'" />
-    <option name="defaultScopeName" value="File '[ubiprocess-gateways-common] - ...\src\other-modules\ht-stick-in-view\ht-stick-in-view.directive.js'" />
-    <option name="SEARCH_SCOPE" value="File '[ubiprocess-gateways-common] - ...\src\other-modules\ht-stick-in-view\ht-stick-in-view.directive.js'" />
+    <option name="customScope" value="app" />
+    <option name="defaultScopeName" value="app" />
+    <option name="SEARCH_SCOPE" value="app" />
     <option name="FILE_MASK" value="*.js, *.html, *.scss, *.css" />
     <recentFileMasks>
       <mask>*.properties</mask>
