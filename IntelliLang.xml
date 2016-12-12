@@ -13,6 +13,10 @@
       <display-name>li/@permission-only</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("permission-only")).withParent(xmlTag().withLocalName(string().equalTo("li")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>md-autocomplete/@md-items</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("md-items")).withParent(xmlTag().withLocalName(string().equalTo("md-autocomplete")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
     <injection language="file-reference" injector-id="xml">
       <display-name>md-icon/@md-svg-icon</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("md-svg-icon")).withParent(xmlTag().withLocalName(string().equalTo("md-icon")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
