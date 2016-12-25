@@ -4,6 +4,7 @@
       <mapping ext="cshtml" type="HTML" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="ame-lightbox-controller" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="halo-linker-controller" type="PLAIN_TEXT" />
