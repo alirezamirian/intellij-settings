@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[ubiprocess-mobile-app-builder] - ...\services\request-service\build-android.js'" />
     <option name="defaultScopeName" value="File '[ubiprocess-mobile-app-builder] - ...\services\request-service\build-android.js'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[ubiprocess-mobile-app-builder] - ...\services\request-service\build-android.js'" />
     <option name="FILE_MASK" value="*.js, *.html, *.scss, *.css" />
     <recentFileMasks>
