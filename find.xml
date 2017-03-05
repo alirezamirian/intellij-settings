@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[ubiprocess-mobile-app-builder] - ...\services\request-service\build-android.js'" />
-    <option name="defaultScopeName" value="File '[ubiprocess-mobile-app-builder] - ...\services\request-service\build-android.js'" />
-    <option name="SEARCH_SCOPE" value="File '[ubiprocess-mobile-app-builder] - ...\services\request-service\build-android.js'" />
-    <option name="FILE_MASK" value="*.js, *.html, *.scss, *.css" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
