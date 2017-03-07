@@ -50,8 +50,12 @@
           <option name="url" value="https://github.com/alirezamirian/angular-material-swipe-to-refresh.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alirezamirian/ui-mask.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\workspace\angular-material-extensions" />
+    <option name="cloneParentDir" value="F:\workspace\" />
   </component>
 </application>
